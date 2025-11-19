@@ -1,3 +1,5 @@
 brownie networks list
 
 brownie run scripts/deploy.py --network sepolia
+
+brounie console
