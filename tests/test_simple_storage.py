@@ -25,3 +25,5 @@ def test_updating_storage():
 
     # Assert
     assert simple_storage.retrieve() == expected
+
+
